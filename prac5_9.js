@@ -1,3 +1,4 @@
+//예제 5-9 Step의 group 기능을 사용하여 파일 그룹을 읽고 쓰기
 var fs = require('fs'),
   Step = require('step'),
   files;
